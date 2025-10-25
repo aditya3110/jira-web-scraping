@@ -1,0 +1,9 @@
+{
+  "projects": ["ABDERA", "ACCUMULO", "AMQNET"],
+  "out": "data/apache_jira.jsonl",
+  "state": "data/state.json",
+  "page_size": 50,
+  "rate_limit": 3.0,
+  "timeout": 20.0,
+  "max_per_project": null
+}
